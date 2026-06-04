@@ -29,7 +29,7 @@ lms/
 │   │   ├── user.routes.js
 │   │   ├── course.routes.js
 │   │   └── dashboard.routes.js
-│   ├── .env.example
+│   ├── .env
 │   ├── package.json
 │   └── server.js             # Express entry point
 │
